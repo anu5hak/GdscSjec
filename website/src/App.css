@@ -1,0 +1,13 @@
+/* Google Fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+ }
+ 
