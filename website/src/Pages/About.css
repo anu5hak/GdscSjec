@@ -54,11 +54,11 @@
   }
   
   #book-now-button {
-    width:9vw;
-    height: 5.5vh;
+    width:10vw;
+    height: 6vh;
     padding: 0.2vw 1vw;
     background: #e01111;
-    font-size: 1vw;
+    font-size: 1.1vw;
     font-weight: 500;
     color: #ffffff;
     border: 0.2vw solid #F5BC25;
