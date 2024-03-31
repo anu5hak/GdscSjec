@@ -1,5 +1,6 @@
 import React from "react";
 import './Home.css';
+import sjec from '../Images/sjec.jpg'
 
 const Home = () => {
   return (
@@ -20,6 +21,17 @@ const Home = () => {
           </div>
 
           <h1 className="gdscsjec">GDSC SJEC</h1>
+          
+          <div className="mainimage">
+            <img className="homeimg" src={sjec}/>
+        </div>
+        <div className="subtitlecontainer">
+            <h1 className="subtitle">
+            Lorem ipsum dolor sit amet, conser adipiscing elit, sed do eiusm
+            od tepor incididunt ut labore et dolore magna aliqua. Ut enim addolore magna aliqua. Ut enim addenim add 
+            </h1>
+        </div>
+
       </div>
     </div>  
       
