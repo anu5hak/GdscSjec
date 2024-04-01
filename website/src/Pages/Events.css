@@ -75,6 +75,7 @@
     height: 13%;
     top:115%;
     display: flex;
+    cursor: pointer;
     justify-content: center;
   }
   
