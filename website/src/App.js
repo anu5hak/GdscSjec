@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Events from "./Pages/Event";
-import Eventsmain from "./Components/Eventsmain";
+import Images from "./Pages/Images";
 
 const App = () => {
   return (
@@ -10,7 +10,7 @@ const App = () => {
       <Home />
       <About />
       <Events />
-
+      <Images />
     </div>
   );
 };

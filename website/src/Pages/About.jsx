@@ -1,5 +1,5 @@
 import React from "react";
-import sjec from "../Images/sjec.jpg";
+import about from "../Images/about.png";
 import sideimage from "../Images/sideimage.svg"
 import './About.css';
 
@@ -25,7 +25,7 @@ const About = () => {
         </div>
 
         <div className="image">
-            <img className="anish" src={sjec}/>
+            <img className="anish" src={about}/>
         </div>
 
         <div className="sideimage">
